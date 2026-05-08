@@ -5,4 +5,5 @@ pip install sounddevice
 pip install faster_whisper
 pip install requests
 pip install pyttsx3
+pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
 pip install mediapipe -->
